@@ -1,24 +1,24 @@
 {
-  "events": [
+  "items": [
     {
-      "name": "Morning Meeting",
-      "description": "Daily stand-up with the team.",
-      "timestamp": "0900"
+      "name": "Daily Status Meeting",
+      "description": "Brief team meeting to discuss project progress and blockers",
+      "timestamp": "14:30:00"
     },
     {
-      "name": "Lunch Break",
-      "description": "Time to eat and relax.",
-      "timestamp": "1230"
+      "name": "System Backup",
+      "description": "Automated database backup of all production systems",
+      "timestamp": "02:15:00"
     },
     {
-      "name": "Client Call",
-      "description": "Call with the client to discuss project updates.",
-      "timestamp": "1500"
+      "name": "Report Generation",
+      "description": "Weekly analytics report compilation and distribution",
+      "timestamp": "08:45:00"
     },
     {
-      "name": "Workout",
-      "description": "Evening gym session.",
-      "timestamp": "1830"
+      "name": "Shift Handover",
+      "description": "Transfer of responsibilities between day and night teams",
+      "timestamp": "20:00:00"
     }
   ]
 }
