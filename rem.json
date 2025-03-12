@@ -1,24 +1,22 @@
-{
-  "items": [
-    {
-      "name": "Daily Status Meeting",
-      "description": "Brief team meeting to discuss project progress and blockers",
-      "timestamp": "14:30:00"
-    },
-    {
-      "name": "System Backup",
-      "description": "Automated database backup of all production systems",
-      "timestamp": "02:15:00"
-    },
-    {
-      "name": "Report Generation",
-      "description": "Weekly analytics report compilation and distribution",
-      "timestamp": "08:45:00"
-    },
-    {
-      "name": "Shift Handover",
-      "description": "Transfer of responsibilities between day and night teams",
-      "timestamp": "20:00:00"
-    }
-  ]
-}
+[
+  {
+    "name": "Morning Team Meeting",
+    "description": "Daily standup with the development team to discuss progress and roadblocks",
+    "timestamp": "0830"
+  },
+  {
+    "name": "Client Presentation",
+    "description": "Presentation of quarterly results to key stakeholders",
+    "timestamp": "1400"
+  },
+  {
+    "name": "Gym Session",
+    "description": "Personal training appointment focusing on strength training",
+    "timestamp": "1730"
+  },
+  {
+    "name": "Virtual Conference",
+    "description": "Industry webinar on emerging technology trends",
+    "timestamp": "2000"
+  }
+]
