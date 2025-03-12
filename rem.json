@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "name": "Morning Meeting",
+      "description": "Daily stand-up with the team.",
+      "timestamp": "0900"
+    },
+    {
+      "name": "Lunch Break",
+      "description": "Time to eat and relax.",
+      "timestamp": "1230"
+    },
+    {
+      "name": "Client Call",
+      "description": "Call with the client to discuss project updates.",
+      "timestamp": "1500"
+    },
+    {
+      "name": "Workout",
+      "description": "Evening gym session.",
+      "timestamp": "1830"
+    }
+  ]
+}
